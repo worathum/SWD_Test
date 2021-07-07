@@ -1,13 +1,6 @@
 # SWD_Test
 Test Python at Swift Dynamics.
 
-## Preparation
-
-Install all the python dependencies using pip:
-```
-pip install -r requirements.txt
-```
-
 ## Getting Started.
 
 1.Todo List
